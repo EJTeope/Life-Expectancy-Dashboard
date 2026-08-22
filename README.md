@@ -23,6 +23,11 @@ Access the deployed application here: **[Drivers of Life Expectancy Dashboard](h
 
 ---
 
+## 💡 Recommendation
+Prioritize direct investments in health and education over general economic growth, as social infrastructure yields faster, more predictable life expectancy gains than wait for GDP to rise.
+
+---
+
 ## 🛠️ Tech Stack
 This project is built using the following Python ecosystem:
 * **[Streamlit](https://streamlit.io/):** For rapid web application deployment and UI construction.
