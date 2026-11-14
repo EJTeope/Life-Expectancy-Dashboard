@@ -2,7 +2,8 @@
 
 > *An interactive Streamlit dashboard analyzing the impact of GDP, education, and health indices on global life expectancy using Plotly visualizations.*
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://life-expectancy-dashboard-8jivbqhmm8b4gp9vceyffh.streamlit.app/)
+[![Streamlit Dashboard Preview](Header.png)](https://life-expectancy-dashboard-8jivbqhmm8b4gp9vceyffh.streamlit.app/)
+*Click the image above to open the live interactive dashboard.*
 
 ## 📌 Executive Summary
 The **Drivers of Life Expectancy Dashboard** is an analytical tool built to explore Sustainable Development Goals (SDG) metrics. This application investigates the macroeconomic and social factors that influence human longevity. By leveraging interactive scatter plots, trendlines, and multi-variable bubble charts, the dashboard provides clear visual evidence of how GDP per capita, education levels, and health indices correlate with life expectancy across different nations and timeframes.
